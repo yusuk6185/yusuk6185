@@ -3,7 +3,7 @@
 
 ## Hi there 👋 
 I'm a **Front-end Developer** using JavaScript and React. \
-I'm studying Back-end Development with Python to become a Full Stack Developer. 
+I'm studying Back-end Development with Python to become a Full Stack Developer. \
 \
 I like traveling and experienced many cultures so far getting degrees in U.S and Australia. 
 ### Skills
