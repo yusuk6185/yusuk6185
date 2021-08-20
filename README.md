@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=About%20Me&desc=Front-end%20Developer&animation=twinkling&fontSize=70&fontAlignY=45" />
 
-## Hi there 👋 
+<h2>Hi there 👋</h2>
 I'm a **Front-end Developer** using JavaScript and React. \
 I'm studying Back-end Development with Python to become a Full Stack Developer. \
 \
