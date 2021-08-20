@@ -4,7 +4,7 @@
 <h2>Hi there 👋</h2>
  I'm a <b>Front-end Developer</b> using JavaScript and React.<br>
 I'm studying Back-end Development with Python to become a Full Stack Developer.<br><br>
-I like traveling and experienced many cultures so far getting degrees in U.S and Australia. 🇰🇷 🇦🇺 🇺🇸<br>
+I like traveling and experienced many cultures so far getting degrees in U.S and Australia.<br>
 <h3>Skills</h3>
 <h4>Technology Stack</h4>
 
