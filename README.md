@@ -4,8 +4,8 @@
 <h2>Hi there 👋</h2>
  I'm a <b>Front-end Developer</b> using JavaScript and React.<br>
 I'm studying Back-end Development with Python to become a Full Stack Developer.<br><br>
-I like traveling and experienced many cultures so far getting degrees in U.S and Australia.<br>
-<h3>Skills</h3>
+I like traveling and experienced many cultures so far getting degrees in U.S and Australia.✈️<br>
+<h3>Skills 🦾</h3>
 <h4>Technology Stack</h4>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat- square&logo=React&logoColor=blue"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=blueviolet"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
